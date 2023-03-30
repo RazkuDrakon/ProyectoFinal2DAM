@@ -796,101 +796,7 @@
             "symbol": "scene_2",
             "x": 546.0000000000003,
             "y": 73.20000000000005,
-            "actors": [
-                {
-                    "name": "",
-                    "frame": 0,
-                    "animate": false,
-                    "spriteSheetId": "ab13dd1d-3628-431a-b483-05b1276ef5e8",
-                    "direction": "down",
-                    "moveSpeed": 1,
-                    "animSpeed": 15,
-                    "paletteId": "",
-                    "isPinned": false,
-                    "persistent": false,
-                    "collisionGroup": "",
-                    "symbol": "actor_0",
-                    "script": [
-                        {
-                            "command": "EVENT_ACTOR_PUSH",
-                            "args": {
-                                "continue": false
-                            },
-                            "id": "e0a0f39e-90cb-4244-af45-27d6be6ae031"
-                        }
-                    ],
-                    "startScript": [],
-                    "updateScript": [],
-                    "hit1Script": [],
-                    "hit2Script": [],
-                    "hit3Script": [],
-                    "id": "8c593be9-bb29-439c-bce9-7ff85a6807ee",
-                    "x": 4,
-                    "y": 11
-                },
-                {
-                    "name": "",
-                    "frame": 0,
-                    "animate": false,
-                    "spriteSheetId": "ab13dd1d-3628-431a-b483-05b1276ef5e8",
-                    "direction": "down",
-                    "moveSpeed": 1,
-                    "animSpeed": 15,
-                    "paletteId": "",
-                    "isPinned": false,
-                    "persistent": false,
-                    "collisionGroup": "",
-                    "symbol": "actor_1",
-                    "script": [
-                        {
-                            "command": "EVENT_ACTOR_PUSH",
-                            "args": {
-                                "continue": false
-                            },
-                            "id": "a322a272-e1ca-4f54-b4ab-4a4241cfca57"
-                        }
-                    ],
-                    "startScript": [],
-                    "updateScript": [],
-                    "hit1Script": [],
-                    "hit2Script": [],
-                    "hit3Script": [],
-                    "id": "368aa321-fe27-4c9f-b825-586489815fc1",
-                    "x": 6,
-                    "y": 11
-                },
-                {
-                    "name": "",
-                    "frame": 0,
-                    "animate": false,
-                    "spriteSheetId": "ab13dd1d-3628-431a-b483-05b1276ef5e8",
-                    "direction": "down",
-                    "moveSpeed": 1,
-                    "animSpeed": 15,
-                    "paletteId": "",
-                    "isPinned": false,
-                    "persistent": false,
-                    "collisionGroup": "",
-                    "symbol": "actor_2",
-                    "script": [
-                        {
-                            "command": "EVENT_ACTOR_PUSH",
-                            "args": {
-                                "continue": false
-                            },
-                            "id": "f65f9728-0e7b-4d6b-85f0-948c5c0ccec5"
-                        }
-                    ],
-                    "startScript": [],
-                    "updateScript": [],
-                    "hit1Script": [],
-                    "hit2Script": [],
-                    "hit3Script": [],
-                    "id": "0fb7501d-5d2f-494c-9e91-0275efcd3456",
-                    "x": 8,
-                    "y": 11
-                }
-            ],
+            "actors": [],
             "triggers": [
                 {
                     "name": "",
@@ -4084,8 +3990,8 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 688,
-        "worldScrollY": 0,
+        "worldScrollX": 694,
+        "worldScrollY": 6,
         "zoom": 250,
         "customColorsEnabled": false,
         "sgbEnabled": false,
